@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow: https://hassan-tahir.github.io/comingsoon.html 
 
-Sitemap: https://hassan-tahir.github.io/home/sitemap.xml
+Sitemap: https://hassan-tahir.github.io/sitemap.xml
